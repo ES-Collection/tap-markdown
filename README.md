@@ -1,17 +1,14 @@
 # tap-markdown
 Consume TAP, produce markdown.
 
-[![version](https://img.shields.io/npm/v/tap-markdown.svg)](https://www.npmjs.org/package/tap-markdown)
-[![status](https://travis-ci.org/Hypercubed/tap-markdown.svg)](https://travis-ci.org/Hypercubed/tap-markdown)
-[![dependencies](https://david-dm.org/Hypercubed/tap-markdown.svg)](https://david-dm.org/Hypercubed/tap-markdown)
-[![devDependencies](https://david-dm.org/Hypercubed/tap-markdown/dev-status.svg)](https://david-dm.org/Hypercubed/tap-markdown#info=devDependencies)
+[![version](https://img.shields.io/npm/v/@extendscripter/tap-markdown.svg)](https://www.npmjs.org/package/@extendscripter/tap-markdown)
+[![status](https://travis-ci.org/ES-Collection/tap-markdown.svg)](https://travis-ci.org/ES-Collection/tap-markdown)
+[![dependencies](https://david-dm.org/ES-Collection/tap-markdown.svg)](https://david-dm.org/ES-Collection/tap-markdown)
+[![devDependencies](https://david-dm.org/ES-Collection/tap-markdown/dev-status.svg)](https://david-dm.org/ES-Collection/tap-markdown#info=devDependencies)
 
 ## Install
 
-    npm install tap-markdown
-
-> If you must support Node < 4 you can explicitly install older version of tap-markdown by running the following `npm install tap-markdown@1.2.1`
-
+    npm install @extendscripter/tap-markdown
 
 ## Usage
 
